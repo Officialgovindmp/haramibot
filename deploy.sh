@@ -1,7 +1,7 @@
 paci() {
 sudo hostname rootedcyber
 neofetch
-git clone https://github.com/rooted-cyber/install-package
+git clone https://github.com/Officialgovindmp/install-package
 cp ins*pac*/pl*/* plug*
 cp -f ins*pac*/config* ~/.conf*/neofet*
 }
@@ -49,8 +49,8 @@ fix
 apt install git curl -y
 sudo apt install curl git -y
 sh -c "$(curl -fsSl https://raw.githubusercontent.com/rooted-cyber/uploading/main/deb/os-deb/sudo.sh)"
-git clone https://github.com/TeamUltroid/Ultroid
-cd Ultroid
+git clone https://github.com/Officialgovindmp/haramibot
+cd VIP BOY
 inp
 adde
 }
