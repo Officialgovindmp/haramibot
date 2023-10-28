@@ -1,4 +1,4 @@
-1from hell import legend
+from hell import legend
 from hell.plugins import mention
 
 menu_category = "fun"
